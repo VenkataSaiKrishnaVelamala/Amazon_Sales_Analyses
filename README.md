@@ -1,4 +1,4 @@
-# Amazon Sales Data Analyses
+# Amazon Sales Data Analysis
 sourced the dataset from the following link: [(https://github.com/sangwanamit621/Sales-and-Revenue-Analysis/blob/main/AllYearSales.csv)]
 I utilized MongoDB to ingest and organize data, and applied aggregation pipelines to extract valuable insights from the dataset. Some of the specific insights derived include:
 
